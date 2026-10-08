@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Belajar Storage P9</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_shared_pref">SharedPreferences</string>
+    <string name="nav_room_db">Room Database</string>
+
+    <!-- Feature 1: SharedPreferences -->
+    <string name="title_shared_preferences">SharedPreferences</string>
+    <string name="desc_shared_preferences">Penyimpanan data lokal sederhana berbasis key-value. Cocok untuk preferensi user, pengaturan aplikasi, dan sesi login sederhana.</string>
+    <string name="hint_nama_user">Masukkan nama pengguna</string>
+    <string name="checkbox_ingat_saya">Ingat Saya</string>
+    <string name="btn_simpan_pref">Simpan Data</string>
+    <string name="btn_muat_pref">Muat Data</string>
+    <string name="btn_hapus_pref">Hapus Data</string>
+    <string name="title_card_hasil">Hasil Penyimpanan</string>
+    <string name="label_nama_tersimpan">Nama Pengguna:</string>
+    <string name="label_status_ingat">Status Ingat Saya:</string>
+    <string name="label_status_penyimpanan">Status Penyimpanan:</string>
+    <string name="status_belum_ada_data">Belum ada data tersimpan</string>
+    <string name="status_tersimpan">Data Tersimpan</string>
+    <string name="status_ingat_aktif">Ingat Saya Aktif</string>
+    <string name="status_ingat_tidak_aktif">Ingat Saya Tidak Aktif</string>
+
+    <!-- Feature 2: Room Database -->
+    <string name="title_room_database">Room Database</string>
+    <string name="desc_room_database">Penyimpanan data lokal terstruktur menggunakan SQLite Room Database dengan Kotlin Coroutines (lifecycleScope &amp; Dispatchers.IO).</string>
+    <string name="hint_judul_catatan">Judul Catatan (contoh: Tugas Kuliah)</string>
+    <string name="hint_isi_catatan">Isi Catatan (contoh: Mengerjakan praktikum Android)</string>
+    <string name="hint_tanggal_catatan">Tanggal (DD-MM-YYYY)</string>
+    <string name="btn_simpan_catatan">Simpan Catatan</string>
+    <string name="btn_kosongkan_database">Kosongkan Database</string>
+    <string name="title_daftar_catatan">Daftar Catatan Tersimpan</string>
+    <string name="empty_catatan_title">Belum Ada Catatan</string>
+    <string name="empty_catatan_desc">Daftar catatan masih kosong. Silakan tambahkan catatan baru melalui formulir di atas.</string>
+
+    <!-- Formats & Messages -->
+    <string name="toast_nama_kosong">Nama tidak boleh kosong!</string>
+    <string name="toast_pref_disimpan">Data berhasil disimpan ke SharedPreferences!</string>
+    <string name="toast_pref_dimuat">Data SharedPreferences berhasil dimuat!</string>
+    <string name="toast_pref_dihapus">Data berhasil dihapus dari SharedPreferences!</string>
+    <string name="toast_field_catatan_kosong">Semua kolom catatan wajib diisi!</string>
+    <string name="toast_catatan_disimpan">Catatan berhasil disimpan ke Room Database!</string>
+    <string name="toast_database_dikosongkan">Semua catatan di Room Database berhasil dihapus!</string>
+</resources>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/layout_activity_main.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_refresh.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_calendar.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_calendar.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_storage.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_storage.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_bg_badge_success.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/bg_badge_success.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_save.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_save.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_bg_badge_id.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/bg_badge_id.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_bg_badge_neutral.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/bg_badge_neutral.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_note.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_note.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/layout_activity_catatan.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/layout/activity_catatan.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_database.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_database.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/drawable_ic_delete.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.latihan.belajarstorage.app-debug-3:/layout_item_catatan.xml.flat",
+        "source": "com.latihan.belajarstorage.app-main-5:/layout/item_catatan.xml"
+    }
+]
